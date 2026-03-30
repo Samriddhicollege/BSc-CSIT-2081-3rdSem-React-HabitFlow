@@ -1,9 +1,31 @@
 # 🔥 HabitFlow – Modern Habit Tracking App
 
-HabitFlow is a modern habit tracking web application built with **React 19**.  
+
+## Student Information
+
+* **Name:** Karan Sunar
+* **Roll Number:** 11
+* **Course / Program:** Bachelor of Science in Computer Science and Information Technology
+* **Semester / Year:** 3rd Semester / 2026
+
+---
+
+
+## Instructor Information
+
+* **Instructor Name:** **Mr. Dipak Shrestha**
+* **Course Title:** React Development / Full Stack Development
+* **College Name:** Samriddhi College
+
+---
+
+## Project Overview
+
+
+HabitFlow is a modern habit tracking web application built with React 19.  
 It helps users build consistency through daily streak tracking, goal-based progress, detailed analytics, and a clean, responsive interface with dark mode support.
 
-This project was created to demonstrate frontend development skills including state management, context API, custom hooks, derived data logic, and modular component architecture.
+This project was created to demonstrate frontend development skills, including state management, Context API, custom hooks, derived data logic, and modular component architecture.
 
 ---
 
@@ -77,10 +99,10 @@ This project was created to demonstrate frontend development skills including st
 
 ## 🧠 Technical Highlights
 
-- **React 19** (Functional Components)
-- **React Hooks** (`useState`, `useEffect`, `useContext`, custom hooks)
-- **Context API** for theme management (`ThemeContext`)
-- **Custom Hook** (`useLocalStorage`) for persistent state
+- React 19 (Functional Components)
+- React Hooks (`useState`, `useEffect`, `useContext`, custom hooks)
+- Context API for theme management (`ThemeContext`)
+- Custom Hook (`useLocalStorage`) for persistent state
 - Derived state calculations (streaks computed from raw dates, never stored)
 - Utility-based streak logic (`calculateStreak`, `calculateLongestStreak`)
 - Modular, reusable component architecture
@@ -122,8 +144,6 @@ src/
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the repository
-
 ```bash
 git clone https://github.com/your-username/habitflow.git
 cd habitflow
@@ -155,6 +175,12 @@ npm run build
 
 ---
 
+## GitHub & Live Demo
+
+* **GitHub Repository:** https://github.com/Samriddhicollege/BSc-CSIT-2081-3rdSem-React-HabitFlow.git
+* **Live URL (if deployed):** https://agent-69ca875ce922d9c85f12bddc--habitflow-react.netlify.app/
+
+
 ## 🎯 Purpose of This Project
 
 HabitFlow was built as a portfolio-level frontend application to simulate a real-world productivity SaaS product.
@@ -171,14 +197,27 @@ It demonstrates:
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Future Enhancements
 
-- Deployment on Vercel / Netlify
-- Drag-and-drop habit reordering
-- PWA support
-- Backend integration with user authentication
-- Export/import habit data
-- Notification reminders
+* Improve UI/UX design with advanced animations and transitions
+* Add real-time habit sync and collaboration (multi-device support)
+* Implement notification system for daily habit reminders
+* Drag-and-drop habit reordering
+* PWA support for offline access
+* Backend integration with user authentication
+* Export/import habit data
+
+---
+
+## Acknowledgement
+
+> I would like to thank my instructor **Mr. Dipak Shrestha** for guidance and support throughout this project.
+
+---
+
+## Declaration
+
+> I hereby declare that this project is my original work and has been completed as part of my academic submission.
 
 ---
 
@@ -191,5 +230,6 @@ It demonstrates:
 - **localStorage** – Client-side data persistence
 
 ---
+
 
 ⭐ If you found this project helpful or interesting, feel free to star the repository.
